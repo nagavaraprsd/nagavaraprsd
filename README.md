@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Engineering in Bachelor's of Engineering<br>My dream is to Develop a company where I start working as my first full time <br>I'm currently looking for help with the multiple recruitment platforms to get my first intern or first full time job<br>I'm Currently learning Python/java s main languages and HTML,CSS,Node.JS and Java Script
+I'm currently pursuing Engineering in Ballari Institute of Technology and Management<br>I'm Searching  for a job role where I can use my skills and enjoy learnig more and more <br>I'm currently looking for help with the multiple recruitment platforms to get my first intern or first full time job<br>I'm Currently learning Python/java as main languages and HTML,CSS,Node.JS and Java Script
 
 
 ## 🌐 Socials:
